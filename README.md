@@ -3,14 +3,16 @@
 This repo contains different methods for Sentiment Analysis.
 
 *BERT_Finetuning_sentiment.ipynb* -> 
-Contains method to finetune Bert model from Transforers (🤗) library. Along with monitoring metrics in WanDB.  The data is Rotten Tomatoes movei review dataset.
-(https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews/data). The reviews can be classsified into five classes.
-The sentiment labels are:
-0 - negative
-1 - somewhat negative
-2 - neutral
-3 - somewhat positive
-4 - positive
+Contains method to finetune Bert model from Transforers (🤗) library. Along with monitoring metrics in WanDB.    
+The data is Rotten Tomatoes movei review dataset.  
+(https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews/data).   
+The reviews can be classsified into five classes:  
+The sentiment labels are:  
+0 - negative  
+1 - somewhat negative  
+2 - neutral  
+3 - somewhat positive  
+4 - positive  
 
 
 *Flair_Sentiment.ipynb* -> 
