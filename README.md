@@ -14,17 +14,13 @@ The sentiment labels are:
 2 - neutral  
 3 - somewhat positive  
 4 - positive  
-  
-  
 
-
+<br>
 *Flair_Sentiment.ipynb* ->   
-Contains method for sentiment analysis using Flair library.
-
+Contains method for sentiment analysis using Flair library.  
   
-  
-
-*Sentiment_Transformers_FinBert.ipynb* ->   
+<br>
+*Sentiment_Transformers_FinBert.ipynb* ->  
 Contains method for sentiment analysis on financial data using pretrained Finance BERT (FinBert) model.
 
   
