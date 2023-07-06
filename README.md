@@ -1,4 +1,5 @@
-# NLP_sentiment
+# NLP_Sentiment_Analysis_Master
+
 
 This repo contains different methods for Sentiment Analysis.
 
@@ -13,21 +14,21 @@ The sentiment labels are:
 2 - neutral  
 3 - somewhat positive  
 4 - positive  
-
-
+  
+  
 
 
 *Flair_Sentiment.ipynb* ->   
 Contains method for sentiment analysis using Flair library.
 
-
-
+  
+  
 
 *Sentiment_Transformers_FinBert.ipynb* ->   
 Contains method for sentiment analysis on financial data using pretrained Finance BERT (FinBert) model.
 
+  
 
-
-
+  
 *LongText_Sentiment_Transformers.ipynb* ->   
 Contains method for sentiment analysis on long text using window method on financial data using pretrained Finance BERT (FinBert) model.
